@@ -16,8 +16,7 @@ This project is a simple To-Do List Application built using Python and Tkinter. 
 - **Delete a Task 🗑️** – Select a task from the list and click the trash icon to remove it.
 - **Persistent Data 🗂️** – All tasks are saved to tasklist.txt and will be available the next time you open the app. 
 ## 📸 Screenshots 
-
-
+https://github.com/KomalThakur204/To-Do-List-Application/blob/main/Screenshot%202025-05-05%20002849.png
 
 
 
