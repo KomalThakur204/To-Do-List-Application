@@ -2,10 +2,10 @@
 ## 📌Project Overview
 This project is a simple To-Do List Application built using Python and Tkinter. It allows users to add and delete tasks, with all tasks stored in a local text file to maintain persistence. The application provides a clean and easy-to-use graphical interface for managing tasks.
 ## 📊 Key Features
-- ✅ Add Tasks – Users can add tasks to their to-do list by typing in the input field and clicking the "ADD" button.
-- ✅ Delete Tasks – Users can select a task from the list and delete it by clicking the trash icon.
-- ✅ Persistent Tasks – Tasks are saved to a local tasklist.txt file, which is automatically loaded and updated each time the application starts.
-- ✅ Simple and Clean UI – The application provides a user-friendly and intuitive interface for managing tasks.
+- ✅ **Add Tasks** – Users can add tasks to their to-do list by typing in the input field and clicking the "ADD" button.
+- ✅ **Delete Tasks** – Users can select a task from the list and delete it by clicking the trash icon.
+- ✅ **Persistent Tasks** – Tasks are saved to a local tasklist.txt file, which is automatically loaded and updated each time the application starts.
+- ✅ **Simple and Clean UI** – The application provides a user-friendly and intuitive interface for managing tasks.
 ## 🛠️Tools & Technologies Used
 - **Python 3.x** – Programming language used for building the application.
 - **Tkinter** – For creating the graphical user interface (GUI).
